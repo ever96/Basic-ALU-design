@@ -1,1 +1,1 @@
-Basic Alu Architecture simulated in Vivado
+Basic Alu Architecture simulated in Vivado.
