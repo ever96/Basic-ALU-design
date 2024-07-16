@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Wed Jun 12 22:10:28 2024
+# Process ID: 2344
+# Current directory: C:/Users/everl/project_ever/project_ever.runs/synth_1
+# Command line: vivado.exe -log ALU.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source ALU.tcl
+# Log file: C:/Users/everl/project_ever/project_ever.runs/synth_1/ALU.vds
+# Journal file: C:/Users/everl/project_ever/project_ever.runs/synth_1\vivado.jou
+# Running On        :Ever
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :22631
+# Processor Detail  :Intel(R) Core(TM) i3-N305
+# CPU Frequency     :1805 MHz
+# CPU Physical cores:8
+# CPU Logical cores :8
+# Host memory       :8226 MB
+# Swap memory       :5935 MB
+# Total Virtual     :14162 MB
+# Available Virtual :3610 MB
+#-----------------------------------------------------------
+source ALU.tcl -notrace
